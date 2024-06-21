@@ -1,9 +1,13 @@
 .intro-content {
     color:yellow;
+    padding-top: 200px;
 }
-.intro-content h3{
-    margin:0px 700px 0px 0px;
+.intro-content p{
+    margin:10px 700px 0px 100px;
+    font: optional;
+    font-size: medium;
 }
 .intro-content .first{
     margin-top: 350px;
 }
+

@@ -1,6 +1,6 @@
 .navigation li{
     list-style: none;
-    float: left;
-    margin-left: 200px;
-    color: rgb(234, 234, 163);
+    float: right;
+    margin-right: 200px;
+    color: white;
 }
