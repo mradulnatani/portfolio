@@ -1,14 +1,11 @@
 .navigation li{
     list-style: none;
     float: left;
-    margin-left: 200px;
+    margin-right: 225px;
     color: white;
     position:sticky;
 }
 .navigation ul{
     display:inline-block;
 }
-.socialmdi ul{
-    padding-left: 0%;
-    padding-top: 0px;
-}
+

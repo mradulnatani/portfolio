@@ -16,9 +16,9 @@ export default function Main() {
       <br />
       <br />
       <pre>
-        <h2>Hello,</h2>
-        <h2 style={{backgroundColor:'yellow', color:'black'}}>I am Mradul Natani</h2>
-        {field ? <h2>I am a full stack web developer</h2> : <h2>also a d-app developer</h2>}
+        <h2 style={{fontSize:'50px'}}>Hello,</h2>
+        <h2 style={{backgroundColor:'yellow', color:'black',fontSize:'70px'}}>I am Mradul Natani</h2>
+        {field ? <h2>I am a full stack web developer</h2> : <h2>also a Decentralized-app developer</h2>}
       </pre>
       <button id='autoClickButton' style={{ visibility: 'hidden' }}>
         Click Me!
