@@ -5,7 +5,7 @@ export default function navbar() {
     <div>
       
       <navbar className="navigation">
-        <ul>
+        <ul style={{display:'flex'}}>
           <li><b style={{border:'1px solid white',borderBlockEndWidth:'5px', borderRadius:'20px', wordSpacing:'3px'
           }}>Mradul Natani</b></li>
             <li>About</li>
