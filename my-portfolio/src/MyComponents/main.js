@@ -9,7 +9,7 @@ export default function Main() {
   //function autoClick() {
     //button.click();
   //}
-  setTimeout(() => setField(!field), 2000);
+  setTimeout(() => setField(!field), 1000);
 
   return (
     <div className='intro-content'>

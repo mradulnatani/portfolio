@@ -1,7 +1,7 @@
 .navigation li{
     list-style: none;
     float: left;
-    margin-right: 225px;
+    margin-right: 150px;
     color: white;
     position:sticky;
 }
@@ -9,3 +9,6 @@
     display:inline-block;
 }
 
+.navigation li b{
+    margin-right: '150px';
+}
