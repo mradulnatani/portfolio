@@ -1,14 +1,12 @@
 .navigation li{
     list-style: none;
     float: left;
-    margin-right: 150px;
+    margin-right: 100px;
     color: white;
     position:sticky;
+    margin-left: 100px;
 }
 .navigation ul{
     display:inline-block;
-}
-
-.navigation li b{
-    margin-right: '150px';
+    margin-left: 200px;
 }
