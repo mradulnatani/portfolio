@@ -1,12 +1,12 @@
 .navigation li{
     list-style: none;
     float: left;
-    margin-right: 100px;
+    margin-right: 0px;
     color: white;
     position:sticky;
     margin-left: 100px;
 }
 .navigation ul{
     display:inline-block;
-    margin-left: 200px;
+    margin-left: 700px;
 }
