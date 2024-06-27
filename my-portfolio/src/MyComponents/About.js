@@ -20,7 +20,9 @@ export default function About() {
 
       </pre>
      <button  style={{boxSizing:'border-box',border:'3px solid yellow',backgroundColor:'white',borderRadius:'5px'}}> <a href="https://www.dropbox.com/scl/fi/su3xntbwsycj81reb5ri7/MRADUL_NATANI.resume-1.docx?rlkey=zmijejs2wj35nw3h8yaavdiw1&st=p5age4uf&dl=0" download="MRADUL_NATANI.resume[1].docx" style={{backgroundColor:'white',fontSize:'15px',color:'black',letterSpacing:'2px'}}>Download CV</a></button>
-
+     <br/>
+     <br/>
+     <br/>
     </div>
   )
 }
