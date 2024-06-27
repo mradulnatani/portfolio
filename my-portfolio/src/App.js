@@ -11,12 +11,15 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
+      <br/>
+      <br/>
+      <br/>
       <MemoryRouter>
       <Routes>
         <Route path='/' element={<Main/>}/>
-        <Route path='./MyComponents/About' element={<About/>}/>
-        <Route path='./MyComponents/projects' element={<Projects/>}/>
-        <Route path='./MyComponents/contact' element={<Contact/>}/>
+        <Route path='./About' element={<About/>}/>
+        <Route path='./projects' element={<Projects/>}/>
+        <Route path='./contact' element={<Contact/>}/>
         <Route path='/*' element={<h1>404 Page not found</h1>}/>
       </Routes>
       </MemoryRouter>

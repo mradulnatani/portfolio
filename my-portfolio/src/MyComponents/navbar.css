@@ -9,8 +9,15 @@
 .navigation ul{
     display:inline-block;
     margin-right: 700px;
+    position:fixed;
 }
 
 .navigation .image{
     margin-left: 100px;
+    position:fixed;
+}
+
+.navigation li img{
+    margin-left: 1px;
+    position:fixed;
 }
