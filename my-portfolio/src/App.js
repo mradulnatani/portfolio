@@ -11,9 +11,6 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <br/>
-      <br/>
-      <br/>
       <MemoryRouter>
       <Routes>
         <Route path='/' element={<Main/>}/>
@@ -24,7 +21,7 @@ function App() {
       </Routes>
       </MemoryRouter>
       <Picture/>
-      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+      <br/><br/><br/><br/><br/><br/><br/><br/>
       <hr style={{marginLeft:'200px', marginRight:'200px'}}/>
       <About/>
       <hr style={{marginLeft:'200px', marginRight:'200px'}}/>
