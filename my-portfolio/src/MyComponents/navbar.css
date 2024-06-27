@@ -4,9 +4,13 @@
     margin-right: 0px;
     color: white;
     position:sticky;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 .navigation ul{
     display:inline-block;
-    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.navigation .image{
+    margin-left: 100px;
 }

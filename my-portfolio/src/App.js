@@ -22,10 +22,13 @@ function App() {
       </MemoryRouter>
       <Picture/>
       <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-      <hr style={{marginLeft:'50px', marginRight:'50px'}}/>
+      <hr style={{marginLeft:'200px', marginRight:'200px'}}/>
       <About/>
+      <hr style={{marginLeft:'200px', marginRight:'200px'}}/>
       <Technology/>
+      <hr style={{marginLeft:'200px', marginRight:'200px'}}/>
       <Projects/>
+      <hr style={{marginLeft:'200px', marginRight:'200px'}}/>
       <Contact/>
     </div>
   );

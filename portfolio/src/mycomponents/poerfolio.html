@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    
+
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+    <div class="bar">
+        <navbar>
+            <ul>
+                <a href="https://instagram.com/__mradull.___?igshid=MzNlNGNkZWQ4Mg=="><li>instagram</li></a>
+                <a href="https://www.linkedin.com/in/mradul-natani-882194248"><li>linkedin</li></a>
+                <a href="https://github.com/mradulnatani"><li>github</li></a>
+                <a href="https://www.facebook.com/mradul.natani.9?mibextid=ZbWKwL"><li>facebook</li></a>
+            </ul>
+        </navbar>
+    </div>
+    <div class="welcome">
+        <img src="/welcome.jpg" alt="WELCOME TO MY WEBPAGE">
+       </div>
+    <div class="box">
+        <img src="/profilepicture.jpg" alt="profile picture">
+        <caption>Mradul Natani</caption>
+    </div>
+    <div class="intro">
+        <hr>
+        <h2><u>Brief intro</u></h2>
+        <p>My name is Mradul Natani.I completed my schooling till 11th class from Carmel Convent sr.sec school and class 12th from ibs global school currently I am doing MCA(integrated) from International institute of professional studies,DAVV currently i have just entered to my second year of my degree. i am a coding enthusiast knowing language like c,c++,javascript and also some like HTML and CSS. I really enjoy doing coding and specially web programming as it gives me a chance to present the creative side of me and on the other hand languages like c++ help me to develop a good logic.</p>
+        <h2><u>Skills</u></h2>
+        <h3>
+            <ul>
+                <li>C</li>
+                <li>c++</li>
+                <li>Javascript</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Jquery</li>
+            </ul>
+        </h3>
+        <h2><u>Experience</u></h2>
+        <p>Fresher</p>
+    </div>
+    <div class="form">
+        <form action="action.php">
+            Name:<input type="text">
+            <br>
+            Contact number:<input type="text">
+            <br>
+            Mail id:<input type="text">
+            <br>
+            Feedback:<textarea type="text"></textarea>
+            <button type="submit" id="click"onclick="function call()">submit</button>
+        </form>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js">
+    $('.intro').toggle(1000,function(){
+        console.log("click");
+    })
+    function call(){
+        alert("Thankyou your form is submitted");
+        
+    }
+        
+    </script>
+</body>
+</html>
