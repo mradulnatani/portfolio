@@ -1,4 +1,5 @@
 import React,{useState} from 'react'
+import { Outlet } from 'react-router-dom';
 export default function Contact() {
   function submission(e){
     e.preventDefault();
@@ -20,6 +21,7 @@ export default function Contact() {
         <br/>
         <br/>
       </form>
+      <Outlet/>
     </div>
   )
 }
