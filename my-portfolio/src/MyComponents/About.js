@@ -6,15 +6,23 @@ export default function About() {
       <h1 style={{color:'yellow'}}><u style={{color:'yellow'}}>About Me</u></h1>
       <pre style={{color:'white'}}>
         <p>Hi there !</p>
-        I am Mradul Natani, I am student of International Institute of Professional Studies, DAVV, Indore. <br/>
-        A driven and highly motivated individual with a strong belief in the power of smart and hard work <br/>
-          ,passion and consistency. I do full stack web development and also I do decentralized app development <br/>
-          using solidity programming language, I too have a strong hold on data structures and algorithms as well <br/>
-          a strong hold on concepts of OOPS. <br/>
-           My journey in technology begun with facination towards coding which then resulted into a burning desire <br/>
-          to learn more and more, Yes my desire to learn hass no limits !, also I use support of google, youtue and <br/>
-        AI tools to learn new concepts. <br/>
-        I am always open and ready to contribute with like-minded people, so that we can grow together.  <br/> 
+        I am Mradul Natani, I am student of International <br/>
+         Institute of Professional Studies, DAVV, Indore. <br/>
+        A driven and highly motivated individual with a <br/>
+        strong belief in the power of smart and hard work <br/>
+          ,passion and consistency. I do full stack<br/>
+           web development and also I do decentralized app<br/>
+            development using solidity programming language, <br/>
+            I too have a strong hold on data structures and<br/>
+             algorithms as well a strong hold on concepts of<br/>
+              OOPS. <br/>
+           My journey in technology begun with facination<br/>
+            towards coding which then resulted into a burning<br/>
+             desire to learn more and more, Yes my desire to<br/>
+              learn hass no limits !, also I use support of<br/>
+               google, youtue and AI tools to learn new concepts. <br/>
+        I am always open and ready to contribute with<br/>
+         like-minded people, so that we can grow together.  <br/> 
         Your sincerly, <br/>
         Mradul Natani
 

@@ -1,6 +1,8 @@
 .intro-content {
     color:yellow;
-    padding-top: 100px;
+    padding-top: 10px;
+    display: inline;
+    size: 15px;
 }
 .intro-content h2{
     margin: 0px;
@@ -9,4 +11,7 @@
 .intro-content .first{
     margin-top: 350px;
 }
-
+.intro-content .field:hover{
+    color: black;
+    background-color: white;
+}
